@@ -1,19 +1,24 @@
 .color1 {
-background-color:#C7B8EA;
+  background-color:#C7B8EA;
 }
 
 .color2 {
-background-color:#D8A7CA;
+  background-color:#D8A7CA;
 }
 
 .color3 {
-background-color:#9B97B2;
+  background-color:#9B97B2;
 }
 
 .color4 {
-background-color:#73A6AD;
+  background-color:#73A6AD;
 }
 
 .colorwhitetext {
-  color:white;
+  color:white
+}
+
+.bottomsection {
+  position: absolute;
+  bottom:0;
 }
